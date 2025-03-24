@@ -6,7 +6,7 @@ package proyectorestaurante;
 
 /**
  *
- * @author COMPHP
+ * @author Anner Monge
  */
 public class Pedidos {
     private String primerPlato;
